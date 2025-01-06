@@ -1,0 +1,30 @@
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HangMan.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ömer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HangMan.csprojAssemblyReference.cache
+C:\Users\Ömer\source\repos\Hang Man\HangMan\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ömer\source\repos\Hang Man\HangMan\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ömer\source\repos\Hang Man\HangMan\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ömer\source\repos\Hang Man\HangMan\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ömer\source\repos\Hang Man\HangMan\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ömer\source\repos\Hang Man\HangMan\obj\Debug\HangMan.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\Hang Man\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\Hang Man\HangMan\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ömer\source\repos\Hang Man\HangMan\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ömer\source\repos\Hang Man\HangMan\obj\Debug\HangMan.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\Hang Man\HangMan\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ömer\Desktop\Hang Man\HangMan\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ömer\Desktop\Hang Man\HangMan\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ömer\Desktop\Hang Man\HangMan\obj\Debug\HangMan.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\Hang Man\HangMan\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ömer\Desktop\Hang Man\HangMan\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ömer\Desktop\Hang Man\HangMan\obj\Debug\HangMan.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\Hang Man\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\Hang Man\HangMan\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ömer\Desktop\Hang Man\HangMan\obj\Debug\WindowsFormsApp1.pdb
