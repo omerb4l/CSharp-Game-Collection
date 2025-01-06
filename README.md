@@ -7,7 +7,7 @@ The goal of these projects was to enhance my understanding of basic game mechani
 ## Contents  
 
 ### 1. **Hangman**  
-A classic word-guessing game where the player tries to guess the word by suggesting letters. Incorrect guesses gradually build a "hangman" figure.  
+A word-guessing game based on identifying cities in Turkey. The player guesses letters to uncover the name of a Turkish city. Incorrect guesses gradually build a "hangman" figure.  
 
 ### 2. **Tic Tac Toe**  
 A two-player strategy game where players take turns placing "X" and "O" to complete a row, column, or diagonal.  
